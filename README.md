@@ -1,1 +1,1 @@
-This is a readme file for the Vagrant task
+This file is mandatory in projects
